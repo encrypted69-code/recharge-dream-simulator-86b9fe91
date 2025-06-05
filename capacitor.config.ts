@@ -2,7 +2,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'app.lovable.45ffc75a6f094cd891df328222b03734',
+  appId: 'com.lovable.rechargedreamsimulator',
   appName: 'recharge-dream-simulator',
   webDir: 'dist',
   server: {
